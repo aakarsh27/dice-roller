@@ -22,4 +22,4 @@ The application prompts the user for the number of dice they want to roll and ge
 
 Each folder in this repository contains the code for the corresponding step in the companion article in a file called `dice.py`.
 
-The dice roller helps to bring that randomness on a programm that we might need to use
+The dice roller helps to bring that randomness on a programm that we might need to use for several various purposes
